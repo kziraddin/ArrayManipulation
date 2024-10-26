@@ -90,6 +90,3 @@ The solution uses the Difference Array technique:
 - Time Complexity: O(n + m), where n is the array size and m is the number of queries
 - Space Complexity: O(n)
 
-
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/27953146/06257565-6031-4342-8773-8966934ab78a/ReverseLinkedList.py
